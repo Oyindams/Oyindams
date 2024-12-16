@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oyindams
 - 👀 I’m interested in Data Science and Analysis.
-- 🌱 I’m currently learning SQL, Machine Learning, Deep learning and neural network.
+- 🌱 I’m currently learning AI, Machine Learning, SQL, Deep learning, and neural network.
 - 💞️ I’m looking to collaborate on Team projects, Hackathons.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I’ve always loved puzzles and patterns, so when I first started studying data science, it felt like I was unlocking secret codes in real life.
