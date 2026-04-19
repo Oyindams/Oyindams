@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oyindams/Oyindams/main/github-banner.png" alt="Banner" />
+</p>
+
 ## Hi there 👋
 <h1 align="center">Oyindamola Babatunde</h1>
 <p align="center">
