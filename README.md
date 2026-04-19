@@ -21,8 +21,9 @@ Currently, I am focused on developing AI and machine learning projects, includin
 ## Technical Skills
 
 ### Programming
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sql,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,sql" />
 </p>
 
 ### Machine Learning & Data Science
