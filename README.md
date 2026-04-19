@@ -18,12 +18,11 @@ Currently, I am focused on developing AI and machine learning projects, includin
 
 ---
 
-
 ## Technical Skills
 
 ### Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
+  <img src="https://skillicons.dev/icons?i=python,sql,html,css" />
 </p>
 
 ### Machine Learning & Data Science
@@ -33,7 +32,12 @@ Currently, I am focused on developing AI and machine learning projects, includin
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flask,django" />
+  <img src="https://skillicons.dev/icons?i=react,vue" />
+</p>
+
+### Networking & Systems
+<p>
+  2G • 3G • 4G • Radio Frequency (RF) Systems
 </p>
 
 ### Tools & Technologies
@@ -41,13 +45,14 @@ Currently, I am focused on developing AI and machine learning projects, includin
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
+<p>
+  QGIS • Google Earth Pro
+</p>
 
 ## Research Interests
 
 ❍ Applied Machine Learning  
-❍ Predictive Modeling  
-❍ AI for Healthcare  
+❍ Predictive Modeling   
 ❍ Data-driven Systems  
 
 ---
@@ -75,11 +80,20 @@ Currently, I am focused on developing AI and machine learning projects, includin
 
 ## Contact
 
-- LinkedIn: (Add your link)  
-- Email: (Add your email)  
+<p align="center">
+  <a href="https://twitter.com/Oyindamolababz">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://linkedin.com/in/oyindamola-babatunde-">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/oyindamolababz">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p> 
 
 ---
 
 ## Personal Note
 
-I enjoy working on something at all times—whether it is building, learning, or solving a problem. Staying engaged in meaningful work is central to my growth.
+I enjoy having conversations.
